@@ -4,7 +4,7 @@ series=read_csv("airline-passengers.csv")
 print(series.head())
 series.plot()
 pyplot.show()
-![Screenshot (8)](https://github.com/user-attachments/assets/986d6969-42c0-4e0a-87a8-53466e68b60a
+![Screenshot (8)](https://github.com/user-attachments/assets/986d6969-42c0-4e0a-87a8-53466e68b60a)
 series.plot(style='-.')
 pyplot.show()
 ![Screenshot (9)](https://github.com/user-attachments/assets/9690f020-22ef-4524-bf5d-e8d2e252b1ce)
